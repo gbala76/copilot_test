@@ -1,1 +1,1 @@
-#create unique 18 digit ID
+#create unique 10 digit ID
